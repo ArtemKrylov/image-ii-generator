@@ -18,4 +18,5 @@ export const Section = ({ title, className = 'section', children }) => {
 Section.propTypes = {
   title: PropTypes.string,
   className: PropTypes.string,
+  children: PropTypes.node,
 };
