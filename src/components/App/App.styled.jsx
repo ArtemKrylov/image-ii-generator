@@ -14,6 +14,6 @@ export const Container = styled.div`
   }
 
   ${props => props.theme.media.desktop} {
-    width: 1280px;
+    width: 1024px;
   }
 `;
