@@ -1,3 +1,5 @@
+Technologies used: React, Firebase, Webpack, JavaScript, SCSS, Semantic HTML5, GIT, npm 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
